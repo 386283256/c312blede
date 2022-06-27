@@ -12,4 +12,3 @@ DEFAULT_PACKAGES += kmod-rt2800-soc wpad-basic-wolfssl swconfig
 define Target/Description
 	Build firmware images for Ralink MT7620 based boards.
 endef
-
